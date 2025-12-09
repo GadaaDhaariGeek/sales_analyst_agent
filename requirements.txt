@@ -1,4 +1,6 @@
-langchain-core
-langchain-openai
-langgraph
-dotenv
+python-dotenv
+llama-index
+llama-index-llms-openai
+pandas
+sqlalchemy
+plotly
