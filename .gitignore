@@ -4,6 +4,9 @@ sales_db/
 .env
 inputs/
 outputs/
+db_folder
+sales_data.db
+logs/
 
 
 
