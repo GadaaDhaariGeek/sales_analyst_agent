@@ -4,3 +4,8 @@ llama-index-llms-openai
 pandas
 sqlalchemy
 plotly
+fastapi
+uvicorn
+langchain-core
+langchain-openai
+langchain
